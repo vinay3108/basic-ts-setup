@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // or your preferred version
+    "module": "ES2020", // use "ESNext" or "ES6" if needed
+    "outDir": "./dist",
+    "esModuleInterop": true, // enables interoperability with CommonJS
+    "moduleResolution": "node",
+    "strict": true,
+    "skipLibCheck": true
+  },
+}
